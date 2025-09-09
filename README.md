@@ -1,11 +1,13 @@
 📊 Data Professionals Dashboard – Power BI Capstone
 
+
 📌 Project Overview
 
 This project presents an interactive Power BI dashboard built from a global survey of 561 data professionals.
 It explores salary trends, job satisfaction, education levels, industries, and tool usage across diverse regions.
 
 The goal was to clean, transform, and visualize data in a way that helps stakeholders — from recruiters to career coaches — gain actionable insights.
+
 
 🔑 Key Insights
 
@@ -19,6 +21,8 @@ The goal was to clean, transform, and visualize data in a way that helps stakeho
 
 🛠 Most commonly used tools: Excel & Power BI (DAX) — still essential in the analytics space.
 
+
+
 🛠 Data Cleaning & Transformation
 
 Removed incomplete salary records and missing roles.
@@ -31,6 +35,8 @@ Converted all salaries to USD and removed extreme outliers.
 
 Designed filters & slicers for interactive exploration (Country, Industry, Tools, Salary).
 
+
+
 🎯 Stakeholder Relevance
 
 Recruiters → Benchmark compensation trends across industries and roles.
@@ -41,9 +47,13 @@ Career Coaches → Guide students/new entrants toward in-demand roles like Data 
 
 Educators/Policy Makers → Shape curricula & reskilling aligned with market demand.
 
+
+
 📷 Dashboard Preview
 
-(Insert screenshot or GIF of your dashboard here)
+![bandicam 2025-09-09 04-21-53-259](https://github.com/user-attachments/assets/bbc51015-a40e-4835-83e2-6b8b8cdb75bf)
+
+
 
 🚀 How to Use
 
@@ -53,11 +63,15 @@ Open in Power BI Desktop.
 
 Explore the interactive dashboard with filters and slicers.
 
+
+
 📂 Project Structure
 📦 Capstone-BI
  ┣ 📊 Capstone BI.pdf       # Final dashboard insights report
  ┣ 📊 Capstone-BI.pbix      # Power BI dashboard file (upload here)
  ┣ 📄 README.md             # Project documentation
+
+
 
 📌 Future Improvements
 
