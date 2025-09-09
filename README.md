@@ -1,4 +1,4 @@
-#📊 Data Professionals Dashboard – Power BI Capstone
+📊 Data Professionals Dashboard – Power BI Capstone
 
 📌 Project Overview
 
